@@ -1,43 +1,44 @@
-# Samuel Nathanael Portfolio
+# Samuel Nathanael - Data Science Portfolio
 
-Welcome to my portfolio! 👋  
-This repository showcases my work in two main areas: **Business** (competition presentations and case studies) and **Data Science** (projects involving programming, analysis, and machine learning).
-
----
-
-## 👤 Professional Profile
-
-I am currently pursuing a **Bachelor's degree in Information Systems** at Universitas Brawijaya, with a focus on technology, innovation, and continuous self-development. I am committed to delivering high-quality results and can work effectively both independently and in teams.
+Welcome to my technical portfolio! 👋  
+This repository showcases my **Data Science and Machine Learning projects**, including programming, data analysis, and applied AI solutions.
 
 ---
 
-## 🎓 Education & Experience (Summary)
+## 👤 Professional Summary
+
+I am a **Bachelor's student in Information Systems** at Universitas Brawijaya, passionate about **data-driven problem solving**, machine learning, and delivering high-quality technical solutions. I enjoy working on both independent and collaborative projects.
+
+---
+
+## 🛠 Technical Skills
+
+- **Programming & Analysis:** Python, SQL, Data Analysis, Machine Learning, Data Visualization  
+- **Tools & Software:** Google Colab, MySQL Workbench, Tableau, Visual Studio Code  
+- **Methodologies:** Data Cleaning, Feature Engineering, Model Development, Evaluation  
+
+---
+
+## 🎓 Education & Training
 
 - **Universitas Brawijaya** – Bachelor in Information Systems | GPA: 3.91/4.00  
-- Lab Assistant roles in **Programming, SQL, and Business Process Modeling**, guiding students in practical exercises and troubleshooting.  
-- Active in **PMK Daniel** organization, managing projects and coordinating teams.
-
----
-
-## 🛠 Skills
-
-- **Technical:** Business Modeling, SQL, Data Analysis, Machine Learning, Data Visualization  
-- **Software:** Microsoft Office, Visual Studio Code, MySQL Workbench, Google Colab, Tableau  
-- **Soft Skills:** Time Management, Project Management, Communication  
+- **Data Science Bootcamp - Digital Skola** | Sep 2025 - Jan 2026  
+  Comprehensive training in data analysis, statistical methods, and AI applications.
 
 ---
 
 ## 🏆 Highlights
 
-- Awarded **Second Place** in Global Business Case Competition 2025  
-- Third Place – Multiple national business competitions  
-- Completed **Data Science Bootcamp** (Digital Skola) and several online certifications in SQL and Machine Learning  
+- Completed multiple certifications in **SQL, Data Science, and Machine Learning**  
+- Applied technical skills in real-world academic projects and competitions  
 
 ---
 
-## 📂 Portfolio Projects
+## 📂 Projects
 
-1. **Business** – Presentations and case studies from competitions.  
-2. **Data Science** – Programming, analysis, and machine learning projects.  
+Explore each folder for detailed project work, code, datasets, and documentation:
 
-> Explore each folder for project details, code, and presentations.
+1. **Data Analysis** – Data exploration, visualization, and reporting.  
+2. **Machine Learning** – Predictive modeling, classification, and regression projects.  
+
+> Click on the folders to view project details and code.
