@@ -18,7 +18,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("## 👤 Employee Profile")
+st.markdown("## Employee Profile")
 
 user_input = {}
 c1, c2, c3 = st.columns(3)
@@ -41,7 +41,7 @@ with c3:
     user_input["WorkLifeBalance"] = st.selectbox("Work Life Balance (1–4)", [1, 2, 3, 4])
     user_input["YearsAtCompany"] = st.number_input("Years at Company", 0, 40, 5)
 
-st.markdown("##Derived Engagement Metrics")
+st.markdown("## Derived Engagement Metrics")
 
 c4, c5 = st.columns(2)
 
