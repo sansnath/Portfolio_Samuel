@@ -52,6 +52,9 @@ Execute the Streamlit application:
 ```bash
 streamlit run hr_classification.py
 ```
+## Live Demo / Streamlit App
+You can interact with the **Employee Attrition Prediction System** using the Streamlit app:
+(https://sansnath-portfolio-samuel-hr-analystapp-wzzrs8.streamlit.app/)
 
 ## Model Development
 
