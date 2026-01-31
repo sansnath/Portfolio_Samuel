@@ -15,11 +15,11 @@ st.markdown("""
 </p>
 """, unsafe_allow_html=True)
 
-model = joblib.load("model/xgb_model.pkl")
-scaler = joblib.load("model/scaler.pkl")
-selected_features = joblib.load("model/features.pkl")
+model = joblib.load("Education_Analysis/model/xgb_model.pkl")
+scaler = joblib.load("Education_Analysis/model/scaler.pkl")
+selected_features = joblib.load("Education_Analysis/model/features.pkl")
 
-st.markdown("## 👤 Student Demographics & Background")
+st.markdown("## Student Demographics & Background")
 
 col1, col2, col3 = st.columns(3)
 user_input = {}
@@ -77,7 +77,7 @@ with col3:
     )
 
 st.markdown("---")
-st.markdown("## 📚 Academic Performance (2nd Semester)")
+st.markdown("## Academic Performance (2nd Semester)")
 
 col4, col5 = st.columns(2)
 with col4:
@@ -90,7 +90,7 @@ with col5:
     )
 
 st.markdown("---")
-st.markdown("## 💰 Socio-Economic Factors")
+st.markdown("## Socio-Economic Factors")
 
 col6, col7 = st.columns(2)
 with col6:
@@ -103,7 +103,7 @@ with col7:
     )
 
 st.markdown("---")
-st.markdown("## 🚀 Prediction Result")
+st.markdown("## Prediction Result")
 
 if st.button("Predict Student Status", use_container_width=True):
     input_df = pd.DataFrame([user_input], columns=selected_features)
@@ -120,7 +120,7 @@ if st.button("Predict Student Status", use_container_width=True):
 
     st.success(f"**Predicted Student Status:** {label_map[prediction]}")
 
-    st.markdown("### 📊 Prediction Probability")
+    st.markdown("### Prediction Probability")
     for idx, label in label_map.items():
         st.write(f"- **{label}:** {prediction_proba[idx]:.4f}")
 
