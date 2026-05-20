@@ -113,4 +113,3 @@ Top driving factors identified across the models:
 This project demonstrates that gradient boosting algorithms, particularly **XGBoost**, can effectively predict flight ticket prices with high accuracy. Flight duration, airline tier, and key transit routes serve as the most significant pricing anchors. The resulting model can serve as a dependable backend tool for flight fare aggregation and dynamic pricing optimization systems.
 
 **Author:** Samuel Nathanael Sitompul  
-*Presentation and analysis were created as part of a flight price prediction case study using advanced regression techniques.*
