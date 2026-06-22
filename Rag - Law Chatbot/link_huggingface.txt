@@ -1,0 +1,1 @@
+https://huggingface.co/snssamuel/qwen2.5-3b-legal-chatbot-id
