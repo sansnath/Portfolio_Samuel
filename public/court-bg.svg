@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="none"/>
+  <!-- Court Border -->
+  <rect x="50" y="50" width="700" height="500" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="4"/>
+  <!-- Center Line -->
+  <line x1="400" y1="50" x2="400" y2="550" stroke="rgba(255,255,255,0.05)" stroke-width="4"/>
+  <!-- Center Circle -->
+  <circle cx="400" cy="300" r="70" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="4"/>
+  <!-- Three Point Arcs -->
+  <path d="M 50 120 A 180 180 0 0 1 50 480" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="4"/>
+  <path d="M 750 120 A 180 180 0 0 0 750 480" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="4"/>
+  <!-- Key Areas -->
+  <rect x="50" y="210" width="140" height="180" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="4"/>
+  <rect x="610" y="210" width="140" height="180" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="4"/>
+</svg>
