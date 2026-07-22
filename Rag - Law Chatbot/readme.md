@@ -200,10 +200,3 @@ UU Nomor 6 Tahun 2023.pdf
 Eksperimen 1 dipilih sebagai model terbaik karena eval loss lebih rendah dan lebih stabil — indikator kemampuan generalisasi yang lebih baik.
 
 ---
-
-## 👤 Author
-
-**Samuel Nathanael Sitompul**  
-Mahasiswa Sistem Informasi, Universitas Brawijaya  
-NIM: 235150407111034  
-Hugging Face: [@snssamuel](https://huggingface.co/snssamuel)
