@@ -6,7 +6,7 @@
 **/.env
 **/.env.local
 
-# Python
+# Python & Data
 **/__pycache__/
 *.pyc
 *.pyo
@@ -14,6 +14,9 @@
 .venv/
 venv/
 env/
+*.pdf
+*.faiss
+*.pkl
 
 # Scratch & Temporary
 scratch/
